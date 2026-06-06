@@ -1,0 +1,6 @@
+{
+  "name": "BeatStream",
+  "description": "Modern music player with dark mode, lyrics, search, playlists, and offline local scanning.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
